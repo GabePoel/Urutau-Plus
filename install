@@ -1,0 +1,7 @@
+#!/bin/bash
+sudo cp ../Utaru-Plus /usr/share/icons/ -r
+# cd ~/Downloads && git clone https://github.com/cbrnix/Newaita.git
+# cd ~/Downloads/Newaita && sudo cp Newaita /usr/share/icons/ -r && sudo cp Newaita-dark /usr/share/icons -r
+# cd /usr/share/icons/Newaita && sudo rm mimetypes -r
+# cd /usr/share/icons/Newaita-dark && sudo rm mimetypes -r
+# cd ~/Downloads && rm Newaita -r
