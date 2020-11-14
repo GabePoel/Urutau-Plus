@@ -1,17 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/btd1337/elementary-full-icon-theme/master/logo.png"><br>
   <b>Urutau Icons</b><br><br>
-  A package of icons that transforms the third-party icons with the elementary appearance. Build from the original Urutau that seems to no longer be maintained.<br><br>
+  A package of icons that transforms the third-party icons with the elementary appearance. Built from the original Urutau that seems to no longer be maintained.<br><br>
 </p>
-
-
-![First Screenshot](https://raw.githubusercontent.com/btd1337/elementary-full-icon-theme/master/preview/img1.jpeg)  
-
-![Second Screenshot](https://raw.githubusercontent.com/btd1337/elementary-full-icon-theme/master/preview/img2.jpeg)
-
-![Third Screenshot](https://raw.githubusercontent.com/btd1337/elementary-full-icon-theme/master/preview/img3.jpeg)
-
-![Fourth Screenshot](https://raw.githubusercontent.com/btd1337/elementary-full-icon-theme/master/preview/img4.jpeg)  
 
 ## Installation:
 
