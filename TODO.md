@@ -6,6 +6,7 @@
 -   [ ] MatLab
 -   [ ] LabView
 -   [ ] Vesta
+-   [ ] Other sizes of Inkscape
 -   [ ] The rest of the GNOME suite
 
 ## Other Actions
