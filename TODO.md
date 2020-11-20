@@ -5,9 +5,12 @@
 -   [ ] Mailspring
 -   [ ] MatLab
 -   [ ] LabView
--   [ ] Vesta
--   [ ] Other sizes of Inkscape
+-   [x] Vesta
+-   [x] Other sizes of Inkscape
 -   [ ] The rest of the GNOME suite
+
+## Icons That Need Importing
+
 -   [ ] Hourglass
 -   [ ] Harvey
 -   [ ] gitignore
@@ -16,7 +19,7 @@
 -   [ ] Cinema
 -   [ ] Cat Facts
 -   [ ] Badger
--   [ ] Akira
+-   [x] Akira
 
 ## Other Actions
 
