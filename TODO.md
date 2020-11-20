@@ -2,12 +2,21 @@
 
 ## Icons That Need Making
 
+### Apps
+
 -   [ ] Mailspring
 -   [ ] MatLab
 -   [ ] LabView
 -   [x] Vesta
 -   [x] Other sizes of Inkscape
 -   [ ] The rest of the GNOME suite
+
+### Mimetypes
+
+-   [ ] Authors
+    -   [ ] Recolor
+    -   [ ] Additional sizes
+-   [ ] Size templates
 
 ## Icons That Need Importing
 
