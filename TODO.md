@@ -8,6 +8,15 @@
 -   [ ] Vesta
 -   [ ] Other sizes of Inkscape
 -   [ ] The rest of the GNOME suite
+-   [ ] Hourglass
+-   [ ] Harvey
+-   [ ] gitignore
+-   [ ] Give Me Lyrics
+-   [ ] Gifup
+-   [ ] Cinema
+-   [ ] Cat Facts
+-   [ ] Badger
+-   [ ] Akira
 
 ## Other Actions
 
