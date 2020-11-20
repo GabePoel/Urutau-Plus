@@ -1,4 +1,4 @@
-# To Do
+# LiTo Do
 
 ## Icons That Need Making
 
@@ -16,6 +16,9 @@
 -   [ ] Authors
     -   [ ] Recolor
     -   [ ] Additional sizes
+-   [ ] License
+-   [ ] Readme
+-   [ ] Todo
 -   [ ] Size templates
 
 ## Icons That Need Importing
