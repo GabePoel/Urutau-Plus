@@ -21,6 +21,19 @@
 -   [ ] Todo
 -   [ ] Size templates
 
+### Accounts
+
+-   [ ] Google
+-   [ ] Nextcloud
+-   [ ] Facebook
+-   [ ] Microsoft
+-   [ ] Flickr
+-   [ ] Foursquare
+-   [ ] Microsoft Exchange
+-   [ ] Fedora
+-   [ ] IMAP and SMTP
+-   [ ] Enterprise Login (Kerberos)
+
 ## Icons That Need Importing
 
 -   [ ] Hourglass
